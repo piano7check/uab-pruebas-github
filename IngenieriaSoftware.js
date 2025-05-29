@@ -1,4 +1,5 @@
 console.log("INGENIERÍA DE SOFTWARE");
+console.log("1. Diego Anthony Adriazola Condori");
 console.log("2. Galia Almaraz Jaillita");
 console.log("5. Miguel Alejandro Blasquez Iquiza");
 console.log("6.Jhoseb Pablo Cabrera Condori");
