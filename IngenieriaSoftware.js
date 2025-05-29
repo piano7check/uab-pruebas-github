@@ -8,6 +8,7 @@ console.log("10. Elia Chacmi Paco");
 console.log("14. Ricardo Angel Duran Mamani");
 console.log("15. Jhurguen Ergueta Mamani");
 console.log("16. Jhammil Alcides Leonardo Mamani");
-console.log("17. Juan David Guzmn Zeballos");
+console.log("17. Sebastian Fernando Gomez Huanco");
+console.log("18. Juan David Guzmn Zeballos");
 console.log("27. Jhosep Andrei Mendoza Coca");
 console.log("40. Gustavo Rojas Valdivia");
