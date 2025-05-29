@@ -1,12 +1,2 @@
 console.log("INGENIERÍA DE SOFTWARE");
-console.log("1. Diego Anthony Adriazola Condori");
-console.log("2. Galia Almaraz Jaillita");
-console.log("5. Miguel Alejandro Blasquez Iquiza");
-console.log("6.Jhoseb Pablo Cabrera Condori");
-console.log("8. Luis Carvajal Hinojosa");
-console.log("10. Elia Chacmi Paco");
-console.log("14. Ricardo Angel Duran Mamani");
-console.log("15. Jhurguen Ergueta Mamani");
-console.log("17. Juan David Guzmn Zeballos");
-console.log("27. Jhosep Andrei Mendoza Coca");
-console.log("40. Gustavo Rojas Valdivia");
+console.log("36. Jhoel Titirico Charca");
