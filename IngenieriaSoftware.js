@@ -14,5 +14,7 @@ console.log("17. Sebastian Fernando Gomez Huanco");
 console.log("18. Juan David Guzmn Zeballos");
 console.log("27. Jhosep Andrei Mendoza Coca");
 console.log("28. Brayan Daniel Muñoz Mamani");
+console.log("36. Jhoel Titirico Charca");
 console.log("37.Yhoselin Yessica Valero Huanca");
 console.log("40. Gustavo Rojas Valdivia");
+
