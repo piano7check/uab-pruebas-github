@@ -10,3 +10,4 @@ console.log("15. Jhurguen Ergueta Mamani");
 console.log("17. Juan David Guzmn Zeballos");
 console.log("27. Jhosep Andrei Mendoza Coca");
 console.log("40. Gustavo Rojas Valdivia");
+console.log("22. Jhammil Alcides Leonardo Mamani");
