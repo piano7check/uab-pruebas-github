@@ -4,6 +4,7 @@ console.log("2. Galia Almaraz Jaillita");
 console.log("5. Miguel Alejandro Blasquez Iquiza");
 console.log("6.Jhoseb Pablo Cabrera Condori");
 console.log("8. Luis Carvajal Hinojosa");
+console.log("9. Jose Rodrigo Cerrogrande Solano")
 console.log("10. Elia Chacmi Paco");
 console.log("13. Brian Diego Choque Lucana");
 console.log("14. Ricardo Angel Duran Mamani");
