@@ -20,6 +20,7 @@ console.log("28. Brayan Daniel Muñoz Mamani");
 console.log("31. Alvaro Regulo Rivera Carhuani")
 console.log("32. David Manuel Rocha Crespo");
 console.log("33. Josue Brayen Rojas Vasquez");
+console.log("34. Jose Junior Suntura Zambrana");
 console.log("36. Jhoel Titirico Charca");
 console.log("37.Yhoselin Yessica Valero Huanca");
 console.log("40. Gustavo Rojas Valdivia");
